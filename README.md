@@ -1,8 +1,6 @@
 TIC-SGBD - Etna Movies
 
 Durée : 5 jours
-Dossier de rendu : https://rendu-svn.etna-alternance.net/v2/2020_Prep'ETNA_TIC-SGBD_3_0-1526/ETNA Movies/labego_s
-VM : 192.168.53.45:student:4Vc[n/3e
 Système d'exploitation : Debian
 Nom du script exécuté : etna_movies.php
 Technologies : PHP + MongoDB
