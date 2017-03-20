@@ -99,7 +99,7 @@ Vous devez demander confirmation à l'utilisateur.
 Vous devez accepter : oui / non / yes / no
 Commande "update_student" :
 
-$> ./etna_movies.php update_student lequer_r
+$> ./etna_movies.php update_student DeFargoth_r
 What do you want to update?
 > name
 New name ?
