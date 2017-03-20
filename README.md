@@ -72,11 +72,11 @@ Commande "add_student" :
 
 $> ./etna_movies.php add_student lequer_r
 Name ?
-> Robin LE QUEREC
+> Robin De Fargoth
 Age ?
 > 28
 Email ?
-> robin.lequerec@etna-learning.fr
+> robin.De-Fargoth@etna-learning.fr
 Phone number ?
 > 0101010101
 User registered !
@@ -87,7 +87,7 @@ Notification
 Vous devez demander ces informations dans le même ordre que l'exemple.
 Commande "del_student" :
 
-$> ./etna_movies.php del_student lequer_r
+$> ./etna_movies.php del_student DeFargoth_r
 Are you sure ?
 > yes
 User deleted !
@@ -103,9 +103,9 @@ $> ./etna_movies.php update_student lequer_r
 What do you want to update?
 > name
 New name ?
-> Robin LE QUEREC Roi De Bretagne
+> Robin De Fargoth Roi De Bretagne
 User informations modified !
-$> ./etna_movies.php update_student lequer_r
+$> ./etna_movies.php update_student DeFargoth_r
 What do you want to update?
 > age
 New age ?
@@ -119,15 +119,15 @@ L'utilisateur ne doit pas pouvoir changer le login.
 Vous devez accepter les mêmes clés que la base de données (name, age, email, phone)
 Commande "show_student" :
 
-$> ./etna_movies.php show_student lequer_r
-login	  : lequer_r
-nom	  : Robin LE QUEREC Roi De Bretagne
+$> ./etna_movies.php show_student DeFargoth_r
+login	  : DeFargoth_r
+nom	  : Robin De Fargoth Roi De Bretagne
 age	  : 42
-email	  : robin.lequerec@etna-learning.fr
+email	  : robin.DeFargoth@etna-learning.fr
 phone 	  : 0101010101
 $> ./etna_movies.php show_student
-lequer_r  Robin LE QUEREC Roi De Bretagne   42   0101010101    robin.lequerec@etna-learning.fr
-burrow_r  Raphaelle Burrow Reine du désert  21   0202020202    raphaelle.burrow@etna-learning.fr
+lequer_r  Robin De Fargoth Roi De Bretagne   42   0101010101    robin.DeFargoth@etna-learning.fr
+burrow_r  Raphaelle Snow Reine du désert  21   0202020202    raphaelle.Snow@etna-learning.fr
 *2*    [étoile_nombreD'étudiantAffiché_étoile]
 		
 Notification
