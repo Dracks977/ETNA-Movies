@@ -60,7 +60,7 @@ Attention !
 
 Pour chacune de ces commandes, vous devez respecter l'affichage suivant.
 C'est à dire qu'il vous est imposé d'afficher les questions comme suit :
-$>  ./etna_movies.php add_student lequer_r   	# Lancement du script
+$>  ./etna_movies.php add_student DeFargoth_r  	# Lancement du script
 Question ? 					# Question : retour à la ligne (obligatoire)
 > Réponse 					# Entrée utilisateur: Commence par un "> " (espace) ; les infos doivent être validées par la touche "entrée" (obligatoire)
 Retour du script
@@ -70,7 +70,7 @@ Ces consignes doivent être respectées pour que vous passiez la moulinette de c
 Si vous avez la moindre question n'hésitez pas à me la poser sur le mur du projet ou par mail ! Ne restez pas dans le flou :)
 Commande "add_student" :
 
-$> ./etna_movies.php add_student lequer_r
+$> ./etna_movies.php add_student DeFargoth_r
 Name ?
 > Robin De Fargoth
 Age ?
@@ -126,8 +126,8 @@ age	  : 42
 email	  : robin.DeFargoth@etna-learning.fr
 phone 	  : 0101010101
 $> ./etna_movies.php show_student
-lequer_r  Robin De Fargoth Roi De Bretagne   42   0101010101    robin.DeFargoth@etna-learning.fr
-burrow_r  Raphaelle Snow Reine du désert  21   0202020202    raphaelle.Snow@etna-learning.fr
+DeFargoth_r  Robin De Fargoth Roi De Bretagne   42   0101010101    robin.DeFargoth@etna-learning.fr
+snow_r  Raphaelle Snow Reine du désert  21   0202020202    raphaelle.Snow@etna-learning.fr
 *2*    [étoile_nombreD'étudiantAffiché_étoile]
 		
 Notification
