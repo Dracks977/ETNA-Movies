@@ -53,6 +53,6 @@ else{
 	echo "\netna_movies : php etna_movies  [add_student / del_student /" .
 	" update_student / show_student / show_movies / movies_storing] / " . 
 	"show_rented_movies / return_movie / rent_movie" .
-	 " [login (lequer_r)]\n\n";
+	 " [login (DeFargoth_r)]\n\n";
 }
 }
